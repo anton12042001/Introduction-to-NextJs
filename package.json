@@ -1,0 +1,30 @@
+{
+  "name": "introduction-to-nextjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anton12042001/Introduction-to-NextJs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anton12042001/Introduction-to-NextJs/issues"
+  },
+  "homepage": "https://github.com/anton12042001/Introduction-to-NextJs#readme",
+  "dependencies": {
+    "next": "^13.1.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "18.11.18",
+    "@types/react": "18.0.27",
+    "typescript": "^4.9.4"
+  }
+}
